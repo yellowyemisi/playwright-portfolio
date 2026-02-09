@@ -1,6 +1,6 @@
-# Playwright Portfolio 🚀
-
 ![Playwright Tests](https://github.com/yellowyemisi/playwright-portfolio/actions/workflows/playwright.yml/badge.svg)
+
+# Playwright Portfolio 🚀
 
 This repository contains automated end-to-end tests using Playwright. The tests are automatically executed on every push to the main branch via GitHub Actions.
 
